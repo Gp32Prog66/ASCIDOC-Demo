@@ -10,7 +10,7 @@
 
 ### contactAdmin.php
 
-image::\images\Contact_Admin_Success.png[alt=userInterface,width=600px] [orientation=portrait]
+image::\SAST Scan Documentation\images\Contact_Admin_Success.png[alt=userInterface,width=600px] [orientation=portrait]
 
 ### dashboard.php
 
