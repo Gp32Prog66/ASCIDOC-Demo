@@ -10,7 +10,7 @@
 
 ### contactAdmin.php
 
-image::images\Lil-libraryV3\Contact_Admin_Success.png[alt=userInterface,width=600px] [orientation=portrait]
+image:images\Lil-libraryV3\Contact_Admin_Success.png[alt=userInterface,width=600px] [orientation=portrait]
 
 ### dashboard.php
 
